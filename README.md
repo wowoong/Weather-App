@@ -2,8 +2,8 @@
 Weather
 
 ### **기능**
-![낮](https://user-images.githubusercontent.com/85971333/161909313-ed49835e-c534-4d1e-8200-4583b28918f6.jpg)
-![밤](https://user-images.githubusercontent.com/85971333/161909318-0c8e4318-040f-41ef-be9e-fa58263cbb51.png)
+![낮](https://user-images.githubusercontent.com/85971333/161909313-ed49835e-c534-4d1e-8200-4583b28918f6.jpg){: width="100" height="200"}
+![밤](https://user-images.githubusercontent.com/85971333/161909318-0c8e4318-040f-41ef-be9e-fa58263cbb51.png){: width="50" height="100"}
 
 1. 5시 부터 20시까지는 밝은 배경이, 이 이후의 시간에는 붉은 배경으로 자동 변경됨.
 2. 상단부에 현제의 위치를 표시
