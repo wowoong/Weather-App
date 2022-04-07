@@ -1,5 +1,7 @@
 # **Weather App**
-Weather
+Weather App
+
+---
 
 ### **기능**
 <img src="https://user-images.githubusercontent.com/85971333/161909313-ed49835e-c534-4d1e-8200-4583b28918f6.jpg" width="200">
@@ -12,5 +14,5 @@ Weather
 
 ---
 
-### **사용한 기술 스택**
-React, CSS, JS
+### **사용한 기술**
+React, CSS, JS, Expo Go
