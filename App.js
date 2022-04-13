@@ -62,7 +62,7 @@ export default function App() {
       } else if (air[0].pm10Grade === "4") {
         return <Text>매우 나쁨</Text>;
       }
-      <Text>측정소 기기 점검</Text>
+      <Text>측정소 기기 점검 중</Text>
     }
 
   const toDayData = (d) => {
