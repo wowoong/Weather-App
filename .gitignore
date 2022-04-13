@@ -1,6 +1,9 @@
 node_modules/
 .expo/
+<<<<<<< HEAD
 dist/
+=======
+>>>>>>> 52dcf08dc6f7756a9b49426c7a58d734cace8c82
 npm-debug.*
 *.jks
 *.p8

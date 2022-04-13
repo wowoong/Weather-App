@@ -1,7 +1,12 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "simpleWeather",
     "slug": "simpleweather",
+=======
+    "name": "Weather-App",
+    "slug": "Weather-App",
+>>>>>>> 52dcf08dc6f7756a9b49426c7a58d734cace8c82
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,11 +28,24 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
+<<<<<<< HEAD
       }
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "description": ""
+=======
+      },
+      "permissions": [
+        "ACCESS_BACKGROUND_LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+>>>>>>> 52dcf08dc6f7756a9b49426c7a58d734cace8c82
   }
 }
